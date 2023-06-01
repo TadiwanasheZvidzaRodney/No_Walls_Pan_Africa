@@ -1,0 +1,29 @@
+@font-face {
+    font-family: 'baloo-regular';
+    src: url(./Baloo2-Regular.ttf);
+}
+
+@font-face {
+    font-family: 'baloo-medium';
+    src: url(./Baloo2-Medium.ttf);
+}
+
+@font-face {
+    font-family: 'baloo-semibold';
+    src: url(./Baloo2-SemiBold.ttf);
+}
+
+@font-face {
+    font-family: 'baloo-bold';
+    src: url(./Baloo2-Bold.ttf);
+}
+
+@font-face {
+    font-family: 'baloo-extrabold';
+    src: url(./Baloo2-ExtraBold.ttf);
+}
+
+@font-face {
+    font-family: 'variablefont';
+    src: url(./Baloo2-VariableFont_wght.ttf);
+}
